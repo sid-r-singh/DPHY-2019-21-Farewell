@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: https://musing-mestorf-e8d38a.netlify.app
+#baseurl: "/holo-alfa"
 
 # language attribute in <html> element.
 lang: en
